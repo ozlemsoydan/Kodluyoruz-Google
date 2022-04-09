@@ -1,0 +1,49 @@
+
+html {
+  font-family:Lucida Grande, Helvetica, Arial, sans-serif;
+  font-size:12px;
+  font-style: normal;
+  line-height:1.2;
+  letter-spacing:0;
+}
+
+.parent {
+  margin: auto;
+  display: flex;
+  height: 100%;
+  width: 100%;
+  margin-top: 1rem;
+}
+
+.child {
+  margin: auto;  /* Magic! */
+  max-width: 100%;
+  max-height: 100%;
+}
+
+
+
+.bg-color{
+  background-color: #EEEEEE;
+  
+}
+
+.text-center{
+  text-align: center;
+}
+
+.left-text{
+  background-color: #7EE5DA;
+  margin: 1px;
+}
+
+.center-text{
+  background-color: #70CCC2;
+  margin: 1px;
+}
+.right-text{
+  background-color: #62B3AA;
+  margin: 1px;
+}
+
+
