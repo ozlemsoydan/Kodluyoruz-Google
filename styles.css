@@ -7,7 +7,7 @@ html {
   letter-spacing:0;
 }
 
-.parent {
+.google-img-1 {
   margin: auto;
   display: flex;
   height: 100%;
@@ -15,7 +15,7 @@ html {
   margin-top: 1rem;
 }
 
-.child {
+.google-img-2 {
   margin: auto;  /* Magic! */
   max-width: 100%;
   max-height: 100%;
